@@ -33,3 +33,4 @@ pip install opencv-python pyqt5 numpy
 ├── LICENSE                # 开源协议
 ├── README.md              # 项目说明文档
 
+！[项目效果图](assets/demo.png)
